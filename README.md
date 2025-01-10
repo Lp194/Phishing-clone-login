@@ -13,4 +13,4 @@ Uso da ferramenta settoolkit para captura de credenciais
 - Método de ataque: Credential Harvester Attack Method 
 - Método de ataque: Site Cloner
 - Obtendo o endereço da máquina: ifconfig
-- URL para clone: 
+- URL para clone: http://www.kabum.com.br/login
